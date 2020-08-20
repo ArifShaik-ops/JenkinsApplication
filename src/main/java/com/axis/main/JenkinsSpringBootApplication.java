@@ -8,6 +8,8 @@ public class JenkinsSpringBootApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JenkinsSpringBootApplication.class, args);
+		
+		System.out.println(" Welcome to Jenkins Web Application !!");
 	}
 
 }
